@@ -12,3 +12,6 @@ Python       9 mins          ▒░░░░░░░░░░░░░░░░
 Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 <!--END_SECTION:waka-->
+
+
+<figure><embed src="https://wakatime.com/share/@Nenten/73c2c20c-9e6f-4c83-9cf9-31bcdf3f044c.svg"></embed></figure>
