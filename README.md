@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           0 secs          ██████████████████▒░░░░░░   73.22 %
-Git Config   0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
