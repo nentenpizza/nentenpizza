@@ -4,7 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Svelte       36 mins         ████████████████░░░░░░░░░   63.69 %
+JSON         20 mins         █████████░░░░░░░░░░░░░░░░   36.19 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
