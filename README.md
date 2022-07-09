@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go      7 mins          ████████████████████████░   96.30 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
