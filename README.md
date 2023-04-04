@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL   0 secs          ████████████████████████░   96.39 %
-Go    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
