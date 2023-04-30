@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   5 hrs 36 mins   ████████████████████████░   95.72 %
-CSS    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+HTML   5 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
