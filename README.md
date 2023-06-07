@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 47 mins    ████████████████▒░░░░░░░░   65.42 %
-TypeScript   56 mins         ████████▒░░░░░░░░░░░░░░░░   33.96 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
